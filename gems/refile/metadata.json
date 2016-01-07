@@ -1,0 +1,13 @@
+{
+  "name": "refile",
+  "full_repo_name": "refile/refile",
+  "gem_uri": "https://rubygems.org/gems/refile-0.6.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/refile",
+  "homepage_uri": "https://github.com/refile/refile",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/refile/0.6.2",
+  "changelog_uri": "https://github.com/refile/refile/blob/master/History.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "debugger-linecache",
+  "full_repo_name": "cldwalker/debugger-linecache",
+  "gem_uri": "https://rubygems.org/gems/debugger-linecache-1.2.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/debugger-linecache",
+  "homepage_uri": "http://github.com/cldwalker/debugger-linecache",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/debugger-linecache/1.2.0",
+  "changelog_uri": "https://github.com/cldwalker/debugger-linecache/blob/master/CHANGELOG.md"
+}

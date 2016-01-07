@@ -1,0 +1,13 @@
+{
+  "name": "twemoji",
+  "full_repo_name": "jollygoodcode/twemoji",
+  "gem_uri": "https://rubygems.org/gems/twemoji-2.1.1.gem",
+  "wiki_uri": "https://github.com/jollygoodcode/twemoji/wiki",
+  "project_uri": "https://rubygems.org/gems/twemoji",
+  "homepage_uri": "https://github.com/jollygoodcode/twemoji",
+  "bug_tracker_uri": "https://github.com/jollygoodcode/twemoji/issues",
+  "source_code_uri": "https://github.com/jollygoodcode/twemoji",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/github/jollygoodcode/twemoji",
+  "changelog_uri": "https://github.com/jollygoodcode/twemoji/blob/master/CHANGELOG.md"
+}

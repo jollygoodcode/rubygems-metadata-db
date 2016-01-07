@@ -1,0 +1,13 @@
+{
+  "name": "fog-vsphere",
+  "full_repo_name": "fog/fog-vsphere",
+  "gem_uri": "https://rubygems.org/gems/fog-vsphere-0.4.0.gem",
+  "wiki_uri": "https://github.com/fog/fog-vsphere/wiki",
+  "project_uri": "https://rubygems.org/gems/fog-vsphere",
+  "homepage_uri": "https://github.com/fog/fog-vsphere",
+  "bug_tracker_uri": "https://github.com/fog/fog-vsphere/issues",
+  "source_code_uri": "https://github.com/fog/fog-vsphere",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/fog-vsphere/0.4.0",
+  "changelog_uri": "https://github.com/fog/fog-vsphere/blob/master/CHANGELOG.md"
+}

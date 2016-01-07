@@ -1,0 +1,13 @@
+{
+  "name": "rolify",
+  "full_repo_name": "RolifyCommunity/rolify",
+  "gem_uri": "https://rubygems.org/gems/rolify-5.0.0.gem",
+  "wiki_uri": "https://github.com/EppO/rolify/wiki",
+  "project_uri": "https://rubygems.org/gems/rolify",
+  "homepage_uri": "https://github.com/RolifyCommunity/rolify",
+  "bug_tracker_uri": "https://github.com/EppO/rolify/issues",
+  "source_code_uri": "https://github.com/RolifyCommunity/rolify",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/rolify/5.0.0",
+  "changelog_uri": "https://github.com/RolifyCommunity/rolify/blob/master/CHANGELOG.rdoc"
+}

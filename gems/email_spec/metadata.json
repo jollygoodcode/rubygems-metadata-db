@@ -1,0 +1,13 @@
+{
+  "name": "email_spec",
+  "full_repo_name": "bmabey/email-spec",
+  "gem_uri": "https://rubygems.org/gems/email_spec-1.6.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/email_spec",
+  "homepage_uri": "http://github.com/bmabey/email-spec/",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/email_spec/1.6.0",
+  "changelog_uri": "https://github.com/bmabey/email-spec/blob/master/History.txt"
+}

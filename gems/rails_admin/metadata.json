@@ -1,0 +1,13 @@
+{
+  "name": "rails_admin",
+  "full_repo_name": "sferik/rails_admin",
+  "gem_uri": "https://rubygems.org/gems/rails_admin-0.8.1.gem",
+  "wiki_uri": "https://github.com/sferik/rails_admin/wiki",
+  "project_uri": "https://rubygems.org/gems/rails_admin",
+  "homepage_uri": "https://github.com/sferik/rails_admin",
+  "bug_tracker_uri": "https://github.com/sferik/rails_admin/issues",
+  "source_code_uri": "https://github.com/sferik/rails_admin",
+  "mailing_list_uri": "http://groups.google.com/group/rails_admin",
+  "documentation_uri": "http://www.rubydoc.info/gems/rails_admin/0.8.1",
+  "changelog_uri": "https://github.com/sferik/rails_admin/blob/master/CHANGELOG.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "libv8",
+  "full_repo_name": "cowboyd/libv8",
+  "gem_uri": "https://rubygems.org/gems/libv8-4.5.95.5.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/libv8",
+  "homepage_uri": "http://github.com/cowboyd/libv8",
+  "bug_tracker_uri": "https://github.com/cowboyd/libv8/issues",
+  "source_code_uri": "",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/libv8/4.5.95.5",
+  "changelog_uri": "NOT FOUND"
+}

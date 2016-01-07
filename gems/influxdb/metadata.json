@@ -1,0 +1,13 @@
+{
+  "name": "influxdb",
+  "full_repo_name": "influxdb/influxdb-ruby",
+  "gem_uri": "https://rubygems.org/gems/influxdb-0.2.3.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/influxdb",
+  "homepage_uri": "http://influxdb.org",
+  "bug_tracker_uri": "https://github.com/influxdb/influxdb-ruby/issues",
+  "source_code_uri": "https://github.com/influxdb/influxdb-ruby",
+  "mailing_list_uri": "https://groups.google.com/forum/#!forum/influxdb",
+  "documentation_uri": "http://www.rubydoc.info/gems/influxdb/0.2.3",
+  "changelog_uri": "NOT FOUND"
+}

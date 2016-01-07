@@ -1,0 +1,13 @@
+{
+  "name": "faraday",
+  "full_repo_name": "lostisland/faraday",
+  "gem_uri": "https://rubygems.org/gems/faraday-0.9.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/faraday",
+  "homepage_uri": "https://github.com/lostisland/faraday",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/faraday/0.9.2",
+  "changelog_uri": "https://github.com/lostisland/faraday/blob/master/CHANGELOG.md"
+}

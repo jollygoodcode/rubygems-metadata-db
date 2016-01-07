@@ -1,0 +1,13 @@
+{
+  "name": "rails",
+  "full_repo_name": "rails/rails",
+  "gem_uri": "https://rubygems.org/gems/rails-4.2.5.gem",
+  "wiki_uri": "http://wiki.rubyonrails.org",
+  "project_uri": "https://rubygems.org/gems/rails",
+  "homepage_uri": "http://www.rubyonrails.org",
+  "bug_tracker_uri": "http://github.com/rails/rails/issues",
+  "source_code_uri": "http://github.com/rails/rails",
+  "mailing_list_uri": "http://groups.google.com/group/rubyonrails-talk",
+  "documentation_uri": "http://api.rubyonrails.org",
+  "changelog_uri": "NOT FOUND"
+}

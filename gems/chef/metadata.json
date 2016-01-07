@@ -1,0 +1,13 @@
+{
+  "name": "chef",
+  "full_repo_name": "chef/chef",
+  "gem_uri": "https://rubygems.org/gems/chef-12.6.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/chef",
+  "homepage_uri": "http://www.chef.io",
+  "bug_tracker_uri": "https://github.com/chef/chef/issues",
+  "source_code_uri": "https://github.com/chef/chef/",
+  "mailing_list_uri": "http://lists.opscode.com/",
+  "documentation_uri": "https://docs.chef.io/",
+  "changelog_uri": "https://github.com/chef/chef/blob/master/CHANGELOG.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "aws-sdk",
+  "full_repo_name": "aws/aws-sdk-ruby",
+  "gem_uri": "https://rubygems.org/gems/aws-sdk-2.2.9.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/aws-sdk",
+  "homepage_uri": "http://github.com/aws/aws-sdk-ruby",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/amazonwebservices/aws-sdk-for-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://docs.amazonwebservices.com/AWSRubySDK/latest/frames.html",
+  "changelog_uri": "https://github.com/aws/aws-sdk-ruby/blob/master/CHANGELOG.md"
+}

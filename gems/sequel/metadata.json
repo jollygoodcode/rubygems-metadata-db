@@ -1,0 +1,13 @@
+{
+  "name": "sequel",
+  "full_repo_name": "jeremyevans/sequel",
+  "gem_uri": "https://rubygems.org/gems/sequel-4.30.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/sequel",
+  "homepage_uri": "http://sequel.jeremyevans.net",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/sequel/4.30.0",
+  "changelog_uri": "https://github.com/jeremyevans/sequel/blob/master/CHANGELOG"
+}

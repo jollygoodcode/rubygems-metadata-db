@@ -1,0 +1,13 @@
+{
+  "name": "coveralls",
+  "full_repo_name": "lemurheavy/coveralls-ruby",
+  "gem_uri": "https://rubygems.org/gems/coveralls-0.8.10.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/coveralls",
+  "homepage_uri": "https://coveralls.io",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/coveralls/0.8.10",
+  "changelog_uri": "https://github.com/lemurheavy/coveralls-ruby/blob/master/CHANGELOG.md"
+}

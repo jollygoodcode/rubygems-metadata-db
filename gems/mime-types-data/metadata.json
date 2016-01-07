@@ -1,0 +1,13 @@
+{
+  "name": "mime-types-data",
+  "full_repo_name": "mime-types/mime-types-data",
+  "gem_uri": "https://rubygems.org/gems/mime-types-data-3.2015.1120.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/mime-types-data",
+  "homepage_uri": "https://github.com/mime-types/mime-types-data/",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/mime-types-data/3.2015.1120",
+  "changelog_uri": "https://github.com/mime-types/mime-types-data/blob/master/History.md"
+}

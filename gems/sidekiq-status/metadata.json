@@ -1,0 +1,13 @@
+{
+  "name": "sidekiq-status",
+  "full_repo_name": "utgarda/sidekiq-status",
+  "gem_uri": "https://rubygems.org/gems/sidekiq-status-0.5.4.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/sidekiq-status",
+  "homepage_uri": "http://github.com/utgarda/sidekiq-status",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/sidekiq-status/0.5.4",
+  "changelog_uri": "https://github.com/utgarda/sidekiq-status/blob/master/CHANGELOG"
+}

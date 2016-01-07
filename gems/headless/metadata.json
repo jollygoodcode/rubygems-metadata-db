@@ -1,0 +1,13 @@
+{
+  "name": "headless",
+  "full_repo_name": "leonid-shevtsov/headless",
+  "gem_uri": "https://rubygems.org/gems/headless-2.2.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/headless",
+  "homepage_uri": "http://leonid.shevtsov.me/en/headless",
+  "bug_tracker_uri": "http://github.com/leonid-shevtsov/headless/issues",
+  "source_code_uri": "http://github.com/leonid-shevtsov/headless",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://rdoc.info/projects/leonid-shevtsov/headless",
+  "changelog_uri": "https://github.com/leonid-shevtsov/headless/blob/master/CHANGELOG"
+}

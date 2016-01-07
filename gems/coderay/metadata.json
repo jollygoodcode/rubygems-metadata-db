@@ -1,0 +1,13 @@
+{
+  "name": "coderay",
+  "full_repo_name": "rubychan/coderay",
+  "gem_uri": "https://rubygems.org/gems/coderay-1.1.0.gem",
+  "wiki_uri": "http://odd-eyed-code.org/projects/coderay/wiki",
+  "project_uri": "https://rubygems.org/gems/coderay",
+  "homepage_uri": "http://coderay.rubychan.de",
+  "bug_tracker_uri": "http://github.com/rubychan/coderay/issues",
+  "source_code_uri": "http://github.com/rubychan/coderay",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/coderay/1.1.0",
+  "changelog_uri": "https://github.com/rubychan/coderay/blob/master/Changes-pre-1.0.textile"
+}

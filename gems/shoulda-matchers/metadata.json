@@ -1,0 +1,13 @@
+{
+  "name": "shoulda-matchers",
+  "full_repo_name": "thoughtbot/shoulda-matchers",
+  "gem_uri": "https://rubygems.org/gems/shoulda-matchers-3.0.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/shoulda-matchers",
+  "homepage_uri": "http://thoughtbot.com/community/",
+  "bug_tracker_uri": "https://github.com/thoughtbot/shoulda/issues",
+  "source_code_uri": "https://github.com/thoughtbot/shoulda-matchers",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://rubydoc.info/github/thoughtbot/shoulda-matchers/master/frames",
+  "changelog_uri": "https://github.com/thoughtbot/shoulda-matchers/blob/master/NEWS.md"
+}

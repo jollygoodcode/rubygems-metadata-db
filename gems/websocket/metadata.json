@@ -1,0 +1,13 @@
+{
+  "name": "websocket",
+  "full_repo_name": "imanel/websocket-ruby",
+  "gem_uri": "https://rubygems.org/gems/websocket-1.2.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/websocket",
+  "homepage_uri": "http://github.com/imanel/websocket-ruby",
+  "bug_tracker_uri": "http://github.com/imanel/websocket-ruby/issues",
+  "source_code_uri": "http://github.com/imanel/websocket-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://rdoc.info/github/imanel/websocket-ruby/frames",
+  "changelog_uri": "https://github.com/imanel/websocket-ruby/blob/master/CHANGELOG.md"
+}

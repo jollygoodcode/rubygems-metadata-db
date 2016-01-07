@@ -1,0 +1,13 @@
+{
+  "name": "metric_fu",
+  "full_repo_name": "metricfu/metric_fu",
+  "gem_uri": "https://rubygems.org/gems/metric_fu-4.12.0.gem",
+  "wiki_uri": "https://github.com/metricfu/metric_fu/wiki/_pages",
+  "project_uri": "https://rubygems.org/gems/metric_fu",
+  "homepage_uri": "https://github.com/metricfu/metric_fu",
+  "bug_tracker_uri": "https://github.com/metricfu/metric_fu/issues",
+  "source_code_uri": "https://github.com/metricfu/metric_fu",
+  "mailing_list_uri": "http://groups.google.com/group/metric_fu",
+  "documentation_uri": "http://rdoc.info/github/metricfu/metric_fu/",
+  "changelog_uri": "https://github.com/metricfu/metric_fu/blob/master/HISTORY.md"
+}

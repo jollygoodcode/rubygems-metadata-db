@@ -1,0 +1,13 @@
+{
+  "name": "guard-rubocop",
+  "full_repo_name": "yujinakayama/guard-rubocop",
+  "gem_uri": "https://rubygems.org/gems/guard-rubocop-1.2.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/guard-rubocop",
+  "homepage_uri": "https://github.com/yujinakayama/guard-rubocop",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/guard-rubocop/1.2.0",
+  "changelog_uri": "https://github.com/yujinakayama/guard-rubocop/blob/master/CHANGELOG.md"
+}

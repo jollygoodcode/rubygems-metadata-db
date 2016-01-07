@@ -1,0 +1,13 @@
+{
+  "name": "concurrent-ruby",
+  "full_repo_name": "ruby-concurrency/concurrent-ruby",
+  "gem_uri": "https://rubygems.org/gems/concurrent-ruby-1.0.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/concurrent-ruby",
+  "homepage_uri": "http://www.concurrent-ruby.com",
+  "bug_tracker_uri": "https://github.com/ruby-concurrency/concurrent-ruby/issues",
+  "source_code_uri": "https://github.com/ruby-concurrency/concurrent-ruby",
+  "mailing_list_uri": "https://groups.google.com/forum/#!forum/concurrent-ruby",
+  "documentation_uri": "http://ruby-concurrency.github.io/concurrent-ruby/frames.html",
+  "changelog_uri": "https://github.com/ruby-concurrency/concurrent-ruby/blob/master/CHANGELOG.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "jbuilder",
+  "full_repo_name": "rails/jbuilder",
+  "gem_uri": "https://rubygems.org/gems/jbuilder-2.4.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/jbuilder",
+  "homepage_uri": "https://github.com/rails/jbuilder",
+  "bug_tracker_uri": "https://github.com/rails/jbuilder/issues",
+  "source_code_uri": "https://github.com/rails/jbuilder",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://github.com/rails/jbuilder#jbuilder",
+  "changelog_uri": "https://github.com/rails/jbuilder/blob/master/CHANGELOG.md"
+}

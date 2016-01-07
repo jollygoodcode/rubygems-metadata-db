@@ -1,0 +1,13 @@
+{
+  "name": "json",
+  "full_repo_name": "flori/json",
+  "gem_uri": "https://rubygems.org/gems/json-1.8.3.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/json",
+  "homepage_uri": "http://json-jruby.rubyforge.org/",
+  "bug_tracker_uri": "http://github.com/flori/json/issues",
+  "source_code_uri": "http://flori.github.com/json/",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://flori.github.com/json/doc/index.html",
+  "changelog_uri": "https://github.com/flori/json/blob/master/CHANGES"
+}

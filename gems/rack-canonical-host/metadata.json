@@ -1,0 +1,13 @@
+{
+  "name": "rack-canonical-host",
+  "full_repo_name": "tylerhunt/rack-canonical-host",
+  "gem_uri": "https://rubygems.org/gems/rack-canonical-host-0.1.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/rack-canonical-host",
+  "homepage_uri": "http://github.com/tylerhunt/rack-canonical-host",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/rack-canonical-host/0.1.0",
+  "changelog_uri": "https://github.com/tylerhunt/rack-canonical-host/blob/master/CHANGELOG.md"
+}

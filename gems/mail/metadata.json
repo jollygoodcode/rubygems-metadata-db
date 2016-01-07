@@ -1,0 +1,13 @@
+{
+  "name": "mail",
+  "full_repo_name": "mikel/mail",
+  "gem_uri": "https://rubygems.org/gems/mail-2.6.3.gem",
+  "wiki_uri": "http://wiki.github.com/mikel/mail",
+  "project_uri": "https://rubygems.org/gems/mail",
+  "homepage_uri": "https://github.com/mikel/mail",
+  "bug_tracker_uri": "http://github.com/mikel/mail/issues",
+  "source_code_uri": "http://github.com/mikel/mail/",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://github.com/mikel/mail/",
+  "changelog_uri": "https://github.com/mikel/mail/blob/master/CHANGELOG.rdoc"
+}

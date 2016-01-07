@@ -1,0 +1,13 @@
+{
+  "name": "slackistrano",
+  "full_repo_name": "phallstrom/slackistrano",
+  "gem_uri": "https://rubygems.org/gems/slackistrano-1.0.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/slackistrano",
+  "homepage_uri": "https://github.com/phallstrom/slackistrano",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/slackistrano/1.0.0",
+  "changelog_uri": "https://github.com/phallstrom/slackistrano/blob/master/CHANGELOG.md"
+}

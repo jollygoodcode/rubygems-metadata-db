@@ -1,0 +1,13 @@
+{
+  "name": "fog-aws",
+  "full_repo_name": "fog/fog-aws",
+  "gem_uri": "https://rubygems.org/gems/fog-aws-0.8.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/fog-aws",
+  "homepage_uri": "http://github.com/fog/fog-aws",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/fog-aws/0.8.0",
+  "changelog_uri": "https://github.com/fog/fog-aws/blob/master/CHANGELOG.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "curb",
+  "full_repo_name": "taf2/curb",
+  "gem_uri": "https://rubygems.org/gems/curb-0.9.0.gem",
+  "wiki_uri": "http://wiki.github.com/taf2/curb",
+  "project_uri": "https://rubygems.org/gems/curb",
+  "homepage_uri": "http://curb.rubyforge.org/",
+  "bug_tracker_uri": "http://github.com/taf2/curb/issues",
+  "source_code_uri": "http://github.com/taf2/curb",
+  "mailing_list_uri": "http://groups.google.com/group/curb---ruby-libcurl-bindings",
+  "documentation_uri": "http://taf2.github.com/curb/",
+  "changelog_uri": "https://github.com/taf2/curb/blob/master/ChangeLog"
+}

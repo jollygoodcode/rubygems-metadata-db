@@ -1,0 +1,13 @@
+{
+  "name": "zendesk_api",
+  "full_repo_name": "zendesk/zendesk_api_client_rb",
+  "gem_uri": "https://rubygems.org/gems/zendesk_api-1.13.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/zendesk_api",
+  "homepage_uri": "https://developer.zendesk.com",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/zendesk/zendesk_api_client_rb",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/zendesk_api/1.13.2",
+  "changelog_uri": "NOT FOUND"
+}

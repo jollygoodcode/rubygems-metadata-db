@@ -1,0 +1,13 @@
+{
+  "name": "ffi",
+  "full_repo_name": "ffi/ffi",
+  "gem_uri": "https://rubygems.org/gems/ffi-1.9.10.gem",
+  "wiki_uri": "http://wiki.github.com/ffi/ffi",
+  "project_uri": "https://rubygems.org/gems/ffi",
+  "homepage_uri": "http://wiki.github.com/ffi/ffi",
+  "bug_tracker_uri": "http://github.com/ffi/ffi/issues",
+  "source_code_uri": "http://github.com/ffi/ffi",
+  "mailing_list_uri": "http://groups.google.com/group/ruby-ffi",
+  "documentation_uri": "http://wiki.github.com/ffi/ffi",
+  "changelog_uri": "NOT FOUND"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pg",
+  "full_repo_name": "ged/ruby-pg",
+  "gem_uri": "https://rubygems.org/gems/pg-0.18.4.gem",
+  "wiki_uri": "http://bitbucket.org/ged/ruby-pg/wiki/Home",
+  "project_uri": "https://rubygems.org/gems/pg",
+  "homepage_uri": "https://bitbucket.org/ged/ruby-pg",
+  "bug_tracker_uri": "https://bitbucket.org/ged/ruby-pg/wiki/Submitting%20Tickets",
+  "source_code_uri": "http://bitbucket.org/ged/ruby-pg/",
+  "mailing_list_uri": "https://groups.google.com/forum/?hl=en&fromgroups#!forum/ruby-pg",
+  "documentation_uri": "http://deveiate.org/code/pg/",
+  "changelog_uri": "https://github.com/ged/ruby-pg/blob/master/History.rdoc"
+}

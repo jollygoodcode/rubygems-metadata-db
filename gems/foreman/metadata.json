@@ -1,0 +1,13 @@
+{
+  "name": "foreman",
+  "full_repo_name": "ddollar/foreman",
+  "gem_uri": "https://rubygems.org/gems/foreman-0.78.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/foreman",
+  "homepage_uri": "http://github.com/ddollar/foreman",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/foreman/0.78.0",
+  "changelog_uri": "https://github.com/ddollar/foreman/blob/master/Changelog.md"
+}

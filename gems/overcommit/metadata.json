@@ -1,0 +1,13 @@
+{
+  "name": "overcommit",
+  "full_repo_name": "brigade/overcommit",
+  "gem_uri": "https://rubygems.org/gems/overcommit-0.30.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/overcommit",
+  "homepage_uri": "https://github.com/brigade/overcommit",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/overcommit/0.30.0",
+  "changelog_uri": "https://github.com/brigade/overcommit/blob/master/CHANGELOG.md"
+}

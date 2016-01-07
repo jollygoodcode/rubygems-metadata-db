@@ -1,0 +1,13 @@
+{
+  "name": "pusher",
+  "full_repo_name": "pusher/pusher-http-ruby",
+  "gem_uri": "https://rubygems.org/gems/pusher-0.15.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/pusher",
+  "homepage_uri": "http://github.com/pusher/pusher-http-ruby",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/pusher/pusher-gem",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/pusher/0.15.2",
+  "changelog_uri": "https://github.com/pusher/pusher-http-ruby/blob/master/CHANGELOG.md"
+}

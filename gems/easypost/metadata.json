@@ -1,0 +1,13 @@
+{
+  "name": "easypost",
+  "full_repo_name": "EasyPost/easypost-ruby",
+  "gem_uri": "https://rubygems.org/gems/easypost-2.1.10.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/easypost",
+  "homepage_uri": "https://www.easypost.com/docs",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/EasyPost/easypost-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/easypost/2.1.10",
+  "changelog_uri": "https://github.com/EasyPost/easypost-ruby/blob/master/CHANGELOG"
+}

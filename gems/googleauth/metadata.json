@@ -1,0 +1,13 @@
+{
+  "name": "googleauth",
+  "full_repo_name": "google/google-auth-library-ruby",
+  "gem_uri": "https://rubygems.org/gems/googleauth-0.5.1.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/googleauth",
+  "homepage_uri": "https://github.com/google/google-auth-library-ruby",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/googleauth/0.5.1",
+  "changelog_uri": "https://github.com/google/google-auth-library-ruby/blob/master/CHANGELOG.md"
+}

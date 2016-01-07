@@ -1,0 +1,13 @@
+{
+  "name": "slim",
+  "full_repo_name": "slim-template/slim",
+  "gem_uri": "https://rubygems.org/gems/slim-3.0.6.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/slim",
+  "homepage_uri": "http://slim-lang.com/",
+  "bug_tracker_uri": "http://github.com/slim-template/slim/issues",
+  "source_code_uri": "http://github.com/slim-template/slim",
+  "mailing_list_uri": "http://groups.google.com/group/slim-template",
+  "documentation_uri": "http://slim-lang.com",
+  "changelog_uri": "https://github.com/slim-template/slim/blob/master/CHANGES"
+}

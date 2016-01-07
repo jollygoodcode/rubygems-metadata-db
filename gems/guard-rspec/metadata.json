@@ -1,0 +1,13 @@
+{
+  "name": "guard-rspec",
+  "full_repo_name": "guard/guard-rspec",
+  "gem_uri": "https://rubygems.org/gems/guard-rspec-4.6.4.gem",
+  "wiki_uri": "http://github.com/guard/guard-rspec/wiki",
+  "project_uri": "https://rubygems.org/gems/guard-rspec",
+  "homepage_uri": "https://rubygems.org/gems/guard-rspec",
+  "bug_tracker_uri": "http://github.com/guard/guard-rspec/issues",
+  "source_code_uri": "http://github.com/guard/guard-rspec",
+  "mailing_list_uri": "http://github.com/guard/guard-rspec/issues",
+  "documentation_uri": "http://github.com/guard/guard-rspec#readme",
+  "changelog_uri": "NOT FOUND"
+}

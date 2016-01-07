@@ -1,0 +1,13 @@
+{
+  "name": "aws-sdk-core",
+  "full_repo_name": "aws/aws-sdk-ruby",
+  "gem_uri": "https://rubygems.org/gems/aws-sdk-core-2.2.9.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/aws-sdk-core",
+  "homepage_uri": "http://github.com/aws/aws-sdk-ruby",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/aws-sdk-core/2.2.9",
+  "changelog_uri": "https://github.com/aws/aws-sdk-ruby/blob/master/CHANGELOG.md"
+}

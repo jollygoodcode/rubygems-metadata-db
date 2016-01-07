@@ -1,0 +1,13 @@
+{
+  "name": "rack",
+  "full_repo_name": "rack/rack",
+  "gem_uri": "https://rubygems.org/gems/rack-1.6.4.gem",
+  "wiki_uri": "http://wiki.github.com/rack/rack/",
+  "project_uri": "https://rubygems.org/gems/rack",
+  "homepage_uri": "http://rack.github.io/",
+  "bug_tracker_uri": "",
+  "source_code_uri": "http://github.com/rack/rack",
+  "mailing_list_uri": "http://groups.google.com/group/rack-devel",
+  "documentation_uri": "http://rack.rubyforge.org/doc/",
+  "changelog_uri": "https://github.com/rack/rack/blob/master/HISTORY.md"
+}

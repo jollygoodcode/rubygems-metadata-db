@@ -1,0 +1,13 @@
+{
+  "name": "coffee-rails",
+  "full_repo_name": "rails/coffee-rails",
+  "gem_uri": "https://rubygems.org/gems/coffee-rails-4.1.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/coffee-rails",
+  "homepage_uri": "https://github.com/rails/coffee-rails",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/rails/coffee-rails",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/coffee-rails/4.1.1",
+  "changelog_uri": "https://github.com/rails/coffee-rails/blob/master/CHANGELOG.md"
+}

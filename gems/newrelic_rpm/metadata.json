@@ -1,0 +1,13 @@
+{
+  "name": "newrelic_rpm",
+  "full_repo_name": "newrelic/rpm",
+  "gem_uri": "https://rubygems.org/gems/newrelic_rpm-3.14.1.311.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/newrelic_rpm",
+  "homepage_uri": "http://www.github.com/newrelic/rpm",
+  "bug_tracker_uri": "http://support.newrelic.com/",
+  "source_code_uri": "http://github.com/newrelic/rpm",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://docs.newrelic.com/docs/agents/ruby-agent",
+  "changelog_uri": "https://github.com/newrelic/rpm/blob/master/CHANGELOG"
+}

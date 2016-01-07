@@ -1,0 +1,13 @@
+{
+  "name": "public_suffix",
+  "full_repo_name": "weppos/publicsuffix-ruby",
+  "gem_uri": "https://rubygems.org/gems/public_suffix-1.5.3.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/public_suffix",
+  "homepage_uri": "http://simonecarletti.com/code/publicsuffix",
+  "bug_tracker_uri": "http://github.com/weppos/publicsuffix-ruby/issues",
+  "source_code_uri": "http://github.com/weppos/publicsuffix-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/public_suffix/1.5.3",
+  "changelog_uri": "https://github.com/weppos/publicsuffix-ruby/blob/master/CHANGELOG.md"
+}

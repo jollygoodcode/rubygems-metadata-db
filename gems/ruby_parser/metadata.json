@@ -1,0 +1,13 @@
+{
+  "name": "ruby_parser",
+  "full_repo_name": "seattlerb/ruby_parser",
+  "gem_uri": "https://rubygems.org/gems/ruby_parser-3.7.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/ruby_parser",
+  "homepage_uri": "https://github.com/seattlerb/ruby_parser",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/ruby_parser/3.7.2",
+  "changelog_uri": "https://github.com/seattlerb/ruby_parser/blob/master/History.txt"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "passenger",
+  "full_repo_name": "FooBarWidget/passenger",
+  "gem_uri": "https://rubygems.org/gems/passenger-5.0.23.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/passenger",
+  "homepage_uri": "https://www.phusionpassenger.com/",
+  "bug_tracker_uri": "http://code.google.com/p/phusion-passenger/issues/list",
+  "source_code_uri": "https://github.com/FooBarWidget/passenger",
+  "mailing_list_uri": "http://groups.google.com/group/phusion-passenger",
+  "documentation_uri": "https://www.phusionpassenger.com/support",
+  "changelog_uri": null
+}

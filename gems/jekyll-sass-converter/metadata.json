@@ -1,0 +1,13 @@
+{
+  "name": "jekyll-sass-converter",
+  "full_repo_name": "jekyll/jekyll-sass-converter",
+  "gem_uri": "https://rubygems.org/gems/jekyll-sass-converter-1.4.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/jekyll-sass-converter",
+  "homepage_uri": "https://github.com/jekyll/jekyll-sass-converter",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/jekyll-sass-converter/1.4.0",
+  "changelog_uri": "https://github.com/jekyll/jekyll-sass-converter/blob/master/History.markdown"
+}

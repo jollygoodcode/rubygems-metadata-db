@@ -1,0 +1,13 @@
+{
+  "name": "activemerchant",
+  "full_repo_name": "activemerchant/active_merchant",
+  "gem_uri": "https://rubygems.org/gems/activemerchant-1.56.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/activemerchant",
+  "homepage_uri": "http://activemerchant.org/",
+  "bug_tracker_uri": "http://github.com/activemerchant/active_merchant/issues",
+  "source_code_uri": "http://github.com/activemerchant/active_merchant",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/activemerchant/1.56.0",
+  "changelog_uri": "https://github.com/activemerchant/active_merchant/blob/master/CHANGELOG"
+}

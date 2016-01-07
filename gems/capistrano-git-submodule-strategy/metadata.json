@@ -1,0 +1,13 @@
+{
+  "name": "capistrano-git-submodule-strategy",
+  "full_repo_name": "ekho/capistrano-git-submodule-strategy",
+  "gem_uri": "https://rubygems.org/gems/capistrano-git-submodule-strategy-0.1.18.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/capistrano-git-submodule-strategy",
+  "homepage_uri": "http://github.com/ekho/capistrano-git-submodule-strategy",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/capistrano-git-submodule-strategy/0.1.18",
+  "changelog_uri": "NOT FOUND"
+}

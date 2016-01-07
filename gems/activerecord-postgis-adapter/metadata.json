@@ -1,0 +1,13 @@
+{
+  "name": "activerecord-postgis-adapter",
+  "full_repo_name": null,
+  "gem_uri": "https://rubygems.org/gems/activerecord-postgis-adapter-3.0.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/activerecord-postgis-adapter",
+  "homepage_uri": "http://github.com/rgeo/activerecord-postgis-adapter",
+  "bug_tracker_uri": "http://github.com/rgeo/activerecord-postgis-adapter/issues",
+  "source_code_uri": "http://github.com/rgeo/activerecord-postgis-adapter",
+  "mailing_list_uri": "https://groups.google.com/forum/#!forum/rgeo-users",
+  "documentation_uri": "http://rubydoc.info/gems/activerecord-postgis-adapter/frames",
+  "changelog_uri": null
+}

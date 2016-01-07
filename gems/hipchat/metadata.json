@@ -1,0 +1,13 @@
+{
+  "name": "hipchat",
+  "full_repo_name": "hipchat/hipchat-rb",
+  "gem_uri": "https://rubygems.org/gems/hipchat-1.5.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/hipchat",
+  "homepage_uri": "https://github.com/hipchat/hipchat-rb",
+  "bug_tracker_uri": "http://help.hipchat.com/",
+  "source_code_uri": "https://github.com/hipchat/hipchat-rb",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://www.hipchat.com/docs/api",
+  "changelog_uri": "NOT FOUND"
+}

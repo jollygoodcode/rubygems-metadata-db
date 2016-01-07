@@ -1,0 +1,13 @@
+{
+  "name": "delayed_job",
+  "full_repo_name": "collectiveidea/delayed_job",
+  "gem_uri": "https://rubygems.org/gems/delayed_job-4.1.1.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/delayed_job",
+  "homepage_uri": "http://github.com/collectiveidea/delayed_job",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/delayed_job/4.1.1",
+  "changelog_uri": "https://github.com/collectiveidea/delayed_job/blob/master/CHANGELOG.md"
+}

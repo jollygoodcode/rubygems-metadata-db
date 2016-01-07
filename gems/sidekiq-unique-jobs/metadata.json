@@ -1,0 +1,13 @@
+{
+  "name": "sidekiq-unique-jobs",
+  "full_repo_name": "mhenrixon/sidekiq-unique-jobs",
+  "gem_uri": "https://rubygems.org/gems/sidekiq-unique-jobs-4.0.13.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/sidekiq-unique-jobs",
+  "homepage_uri": "https://github.com/mhenrixon/sidekiq-unique-jobs",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/sidekiq-unique-jobs/4.0.13",
+  "changelog_uri": "https://github.com/mhenrixon/sidekiq-unique-jobs/blob/master/CHANGELOG.md"
+}

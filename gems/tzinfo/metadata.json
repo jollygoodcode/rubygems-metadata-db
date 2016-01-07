@@ -1,0 +1,13 @@
+{
+  "name": "tzinfo",
+  "full_repo_name": "tzinfo/tzinfo",
+  "gem_uri": "https://rubygems.org/gems/tzinfo-1.2.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/tzinfo",
+  "homepage_uri": "http://tzinfo.github.io",
+  "bug_tracker_uri": "https://github.com/tzinfo/tzinfo/issues",
+  "source_code_uri": "https://github.com/tzinfo/tzinfo",
+  "mailing_list_uri": "http://rubyforge.org/mail/?group_id=894",
+  "documentation_uri": "http://www.rubydoc.info/gems/tzinfo/1.2.2",
+  "changelog_uri": "https://github.com/tzinfo/tzinfo/blob/master/CHANGES.md"
+}
