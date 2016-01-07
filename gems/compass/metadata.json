@@ -1,0 +1,13 @@
+{
+  "name": "compass",
+  "full_repo_name": "chriseppstein/compass",
+  "gem_uri": "https://rubygems.org/gems/compass-1.0.3.gem",
+  "wiki_uri": "http://wiki.github.com/chriseppstein/compass/",
+  "project_uri": "https://rubygems.org/gems/compass",
+  "homepage_uri": "http://compass-style.org",
+  "bug_tracker_uri": "http://github.com/chriseppstein/compass/issues",
+  "source_code_uri": "http://github.com/chriseppstein/compass",
+  "mailing_list_uri": "http://groups.google.com/group/compass-users",
+  "documentation_uri": "http://compass-style.org/docs/",
+  "changelog_uri": null
+}

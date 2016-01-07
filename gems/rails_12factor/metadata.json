@@ -1,0 +1,13 @@
+{
+  "name": "rails_12factor",
+  "full_repo_name": "heroku/rails_12factor",
+  "gem_uri": "https://rubygems.org/gems/rails_12factor-0.0.3.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/rails_12factor",
+  "homepage_uri": "https://github.com/heroku/rails_12factor",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/rails_12factor/0.0.3",
+  "changelog_uri": "NOT FOUND"
+}

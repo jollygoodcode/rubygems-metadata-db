@@ -1,0 +1,13 @@
+{
+  "name": "sanitize",
+  "full_repo_name": "rgrove/sanitize",
+  "gem_uri": "https://rubygems.org/gems/sanitize-4.0.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/sanitize",
+  "homepage_uri": "https://github.com/rgrove/sanitize/",
+  "bug_tracker_uri": "http://github.com/rgrove/sanitize/issues",
+  "source_code_uri": "http://github.com/rgrove/sanitize/",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://github.com/rgrove/sanitize/#readme",
+  "changelog_uri": "https://github.com/rgrove/sanitize/blob/master/HISTORY.md"
+}

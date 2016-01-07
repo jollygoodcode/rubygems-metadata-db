@@ -1,0 +1,13 @@
+{
+  "name": "simple_form",
+  "full_repo_name": "plataformatec/simple_form",
+  "gem_uri": "https://rubygems.org/gems/simple_form-3.2.1.gem",
+  "wiki_uri": "https://github.com/plataformatec/simple_form/wiki",
+  "project_uri": "https://rubygems.org/gems/simple_form",
+  "homepage_uri": "https://github.com/plataformatec/simple_form",
+  "bug_tracker_uri": "https://github.com/plataformatec/simple_form/issues",
+  "source_code_uri": "https://github.com/plataformatec/simple_form",
+  "mailing_list_uri": "https://groups.google.com/forum/#!forum/plataformatec-simpleform",
+  "documentation_uri": "http://rdoc.info/github/plataformatec/simple_form/master/frames",
+  "changelog_uri": "https://github.com/plataformatec/simple_form/blob/master/CHANGELOG.md"
+}

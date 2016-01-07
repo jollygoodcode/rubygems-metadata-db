@@ -1,0 +1,13 @@
+{
+  "name": "dotenv",
+  "full_repo_name": "bkeepers/dotenv",
+  "gem_uri": "https://rubygems.org/gems/dotenv-2.0.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/dotenv",
+  "homepage_uri": "https://github.com/bkeepers/dotenv",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/dotenv/2.0.2",
+  "changelog_uri": "https://github.com/bkeepers/dotenv/blob/master/Changelog.md"
+}

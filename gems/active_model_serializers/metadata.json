@@ -1,0 +1,13 @@
+{
+  "name": "active_model_serializers",
+  "full_repo_name": "rails-api/active_model_serializers",
+  "gem_uri": "https://rubygems.org/gems/active_model_serializers-0.9.3.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/active_model_serializers",
+  "homepage_uri": "https://github.com/rails-api/active_model_serializers",
+  "bug_tracker_uri": "http://github.com/rails-api/active_model_serializers/issues",
+  "source_code_uri": "http://github.com/rails-api/active_model_serializers",
+  "mailing_list_uri": "https://groups.google.com/forum/#!forum/rails-api-core",
+  "documentation_uri": "http://rubydoc.info/gems/active_model_serializers",
+  "changelog_uri": "https://github.com/rails-api/active_model_serializers/blob/master/CHANGELOG.md"
+}

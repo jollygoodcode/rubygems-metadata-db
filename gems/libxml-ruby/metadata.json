@@ -1,0 +1,13 @@
+{
+  "name": "libxml-ruby",
+  "full_repo_name": "xml4r/libxml-ruby",
+  "gem_uri": "https://rubygems.org/gems/libxml-ruby-2.8.0.gem",
+  "wiki_uri": "https://github.com/xml4r/libxml-ruby/wiki",
+  "project_uri": "https://rubygems.org/gems/libxml-ruby",
+  "homepage_uri": "http://xml4r.github.com/libxml-ruby",
+  "bug_tracker_uri": "https://github.com/xml4r/libxml-ruby/issues",
+  "source_code_uri": "https://github.com/xml4r/libxml-ruby",
+  "mailing_list_uri": "https://groups.google.com/forum/?fromgroups#!forum/libxml-devel",
+  "documentation_uri": "http://xml4r.github.com/libxml-ruby/rdoc/index.html",
+  "changelog_uri": "https://github.com/xml4r/libxml-ruby/blob/master/HISTORY"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "prawn",
+  "full_repo_name": "prawnpdf/prawn",
+  "gem_uri": "https://rubygems.org/gems/prawn-2.0.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/prawn",
+  "homepage_uri": "http://prawn.majesticseacreature.com",
+  "bug_tracker_uri": "https://github.com/prawnpdf/prawn/issues",
+  "source_code_uri": "https://github.com/prawnpdf/prawn",
+  "mailing_list_uri": "https://groups.google.com/forum/#!forum/prawn-ruby",
+  "documentation_uri": "http://prawnpdf.org",
+  "changelog_uri": "https://github.com/prawnpdf/prawn/blob/master/CHANGELOG.md"
+}

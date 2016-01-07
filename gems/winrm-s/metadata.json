@@ -1,0 +1,13 @@
+{
+  "name": "winrm-s",
+  "full_repo_name": "opscode/winrm-s",
+  "gem_uri": "https://rubygems.org/gems/winrm-s-0.3.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/winrm-s",
+  "homepage_uri": "https://github.com/opscode/winrm-s",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/winrm-s/0.3.2",
+  "changelog_uri": null
+}

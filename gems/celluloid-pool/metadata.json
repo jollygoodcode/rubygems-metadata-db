@@ -1,0 +1,13 @@
+{
+  "name": "celluloid-pool",
+  "full_repo_name": "celluloid/celluloid-pool",
+  "gem_uri": "https://rubygems.org/gems/celluloid-pool-0.20.5.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/celluloid-pool",
+  "homepage_uri": "http://github.com/celluloid/celluloid-pool",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/celluloid-pool/0.20.5",
+  "changelog_uri": "https://github.com/celluloid/celluloid-pool/blob/master/CHANGES.md"
+}

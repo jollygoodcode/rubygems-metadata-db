@@ -1,0 +1,13 @@
+{
+  "name": "rack-test",
+  "full_repo_name": "brynary/rack-test",
+  "gem_uri": "https://rubygems.org/gems/rack-test-0.6.3.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/rack-test",
+  "homepage_uri": "http://github.com/brynary/rack-test",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/rack-test/0.6.3",
+  "changelog_uri": "https://github.com/brynary/rack-test/blob/master/History.txt"
+}

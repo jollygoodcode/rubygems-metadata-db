@@ -1,0 +1,13 @@
+{
+  "name": "msgpack",
+  "full_repo_name": null,
+  "gem_uri": "http://rubygems.org/gems/msgpack-0.6.1.gem",
+  "wiki_uri": "",
+  "project_uri": "http://rubygems.org/gems/msgpack",
+  "homepage_uri": "http://msgpack.org/",
+  "bug_tracker_uri": "https://github.com/msgpack/msgpack-ruby/issues",
+  "source_code_uri": "https://github.com/msgpack/msgpack-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://ruby.msgpack.org/frames",
+  "changelog_uri": null
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap",
+  "full_repo_name": "twbs/bootstrap-rubygem",
+  "gem_uri": "https://rubygems.org/gems/bootstrap-4.0.0.alpha1.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/bootstrap",
+  "homepage_uri": "https://github.com/twbs/bootstrap-rubygem",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/bootstrap/4.0.0.alpha1",
+  "changelog_uri": "https://github.com/twbs/bootstrap-rubygem/blob/master/CHANGELOG.md"
+}

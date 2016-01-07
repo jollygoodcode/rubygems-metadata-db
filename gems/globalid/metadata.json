@@ -1,0 +1,13 @@
+{
+  "name": "globalid",
+  "full_repo_name": "rails/globalid",
+  "gem_uri": "https://rubygems.org/gems/globalid-0.3.6.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/globalid",
+  "homepage_uri": "http://www.rubyonrails.org",
+  "bug_tracker_uri": "https://github.com/rails/globalid/issues",
+  "source_code_uri": "https://github.com/rails/globalid",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/globalid",
+  "changelog_uri": "https://github.com/rails/globalid/blob/master/CHANGELOG.md"
+}

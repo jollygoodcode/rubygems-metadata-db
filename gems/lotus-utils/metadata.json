@@ -1,0 +1,13 @@
+{
+  "name": "lotus-utils",
+  "full_repo_name": "lotus/utils",
+  "gem_uri": "https://rubygems.org/gems/lotus-utils-0.5.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/lotus-utils",
+  "homepage_uri": "http://lotusrb.org",
+  "bug_tracker_uri": "https://github.com/lotus/utils/issues",
+  "source_code_uri": "https://github.com/lotus/utils",
+  "mailing_list_uri": "http://lotusrb.org/mailing-list",
+  "documentation_uri": "http://rdoc.info/gems/lotus-utils",
+  "changelog_uri": "https://github.com/lotus/utils/blob/master/CHANGELOG.md"
+}

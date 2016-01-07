@@ -1,0 +1,13 @@
+{
+  "name": "pry-doc",
+  "full_repo_name": "pry/pry-doc",
+  "gem_uri": "https://rubygems.org/gems/pry-doc-0.8.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/pry-doc",
+  "homepage_uri": "https://github.com/pry/pry-doc",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/pry-doc/0.8.0",
+  "changelog_uri": "https://github.com/pry/pry-doc/blob/master/CHANGELOG.md"
+}

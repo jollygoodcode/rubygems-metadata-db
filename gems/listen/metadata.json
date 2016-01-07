@@ -1,0 +1,13 @@
+{
+  "name": "listen",
+  "full_repo_name": "guard/listen",
+  "gem_uri": "https://rubygems.org/gems/listen-3.0.5.gem",
+  "wiki_uri": "https://github.com/guard/listen/wiki",
+  "project_uri": "https://rubygems.org/gems/listen",
+  "homepage_uri": "https://github.com/guard/listen",
+  "bug_tracker_uri": "https://github.com/guard/listen/issues",
+  "source_code_uri": "https://github.com/guard/listen",
+  "mailing_list_uri": "https://github.com/guard/listen/issues",
+  "documentation_uri": "http://www.rubydoc.info/gems/listen/3.0.5",
+  "changelog_uri": "https://github.com/guard/listen/releases"
+}

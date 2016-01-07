@@ -1,0 +1,13 @@
+{
+  "name": "brakeman",
+  "full_repo_name": "presidentbeef/brakeman",
+  "gem_uri": "https://rubygems.org/gems/brakeman-3.1.4.gem",
+  "wiki_uri": "https://github.com/presidentbeef/brakeman/wiki",
+  "project_uri": "https://rubygems.org/gems/brakeman",
+  "homepage_uri": "http://brakemanscanner.org",
+  "bug_tracker_uri": "http://github.com/presidentbeef/brakeman/issues",
+  "source_code_uri": "http://github.com/presidentbeef/brakeman",
+  "mailing_list_uri": "http://librelist.com/browser/brakeman/",
+  "documentation_uri": "http://brakemanscanner.org/docs/",
+  "changelog_uri": "https://github.com/presidentbeef/brakeman/blob/master/CHANGES"
+}

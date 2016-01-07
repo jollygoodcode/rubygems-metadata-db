@@ -1,0 +1,13 @@
+{
+  "name": "middleman-blog",
+  "full_repo_name": "middleman/middleman-blog",
+  "gem_uri": "https://rubygems.org/gems/middleman-blog-4.0.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/middleman-blog",
+  "homepage_uri": "https://github.com/middleman/middleman-blog",
+  "bug_tracker_uri": "https://github.com/middleman/middleman-blog/issues",
+  "source_code_uri": "https://github.com/middleman/middleman-blog",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/middleman-blog/4.0.0",
+  "changelog_uri": "https://github.com/middleman/middleman-blog/blob/master/CHANGELOG.md"
+}

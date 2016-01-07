@@ -1,0 +1,13 @@
+{
+  "name": "parslet",
+  "full_repo_name": "kschiess/parslet",
+  "gem_uri": "https://rubygems.org/gems/parslet-1.7.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/parslet",
+  "homepage_uri": "http://kschiess.github.io/parslet",
+  "bug_tracker_uri": "https://github.com/kschiess/parslet/issues",
+  "source_code_uri": "https://github.com/kschiess/parslet",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://kschiess.github.com/parslet/",
+  "changelog_uri": "https://github.com/kschiess/parslet/blob/master/HISTORY.txt"
+}

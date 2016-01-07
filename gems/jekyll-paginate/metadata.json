@@ -1,0 +1,13 @@
+{
+  "name": "jekyll-paginate",
+  "full_repo_name": "jekyll/jekyll-paginate",
+  "gem_uri": "https://rubygems.org/gems/jekyll-paginate-1.1.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/jekyll-paginate",
+  "homepage_uri": "https://github.com/jekyll/jekyll-paginate",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/jekyll-paginate/1.1.0",
+  "changelog_uri": "https://github.com/jekyll/jekyll-paginate/blob/master/History.markdown"
+}

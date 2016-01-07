@@ -1,0 +1,13 @@
+{
+  "name": "github_api",
+  "full_repo_name": "peter-murach/github",
+  "gem_uri": "https://rubygems.org/gems/github_api-0.13.1.gem",
+  "wiki_uri": "https://github.com/peter-murach/github/wiki",
+  "project_uri": "https://rubygems.org/gems/github_api",
+  "homepage_uri": "http://peter-murach.github.io/github/",
+  "bug_tracker_uri": "https://github.com/peter-murach/github/issues",
+  "source_code_uri": "https://github.com/peter-murach/github",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://peter-murach.github.com/github",
+  "changelog_uri": "https://github.com/peter-murach/github/blob/master/CHANGELOG.md"
+}

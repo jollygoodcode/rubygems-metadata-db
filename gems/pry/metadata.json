@@ -1,0 +1,13 @@
+{
+  "name": "pry",
+  "full_repo_name": "pry/pry",
+  "gem_uri": "https://rubygems.org/gems/pry-0.10.3.gem",
+  "wiki_uri": "http://github.com/pry/pry/wiki",
+  "project_uri": "https://rubygems.org/gems/pry",
+  "homepage_uri": "http://pryrepl.org",
+  "bug_tracker_uri": "https://github.com/pry/pry/issues",
+  "source_code_uri": "http://github.com/pry/pry",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://rdoc.info/github/pry/pry/master/file/README.markdown",
+  "changelog_uri": "https://github.com/pry/pry/blob/master/CHANGELOG.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cucumber",
+  "full_repo_name": "cucumber/cucumber-ruby",
+  "gem_uri": "https://rubygems.org/gems/cucumber-2.1.0.gem",
+  "wiki_uri": "http://wiki.github.com/cucumber/cucumber",
+  "project_uri": "https://rubygems.org/gems/cucumber",
+  "homepage_uri": "http://cukes.info",
+  "bug_tracker_uri": "https://github.com/cucumber/cucumber-ruby/issues",
+  "source_code_uri": "http://github.com/cucumber/cucumber-ruby",
+  "mailing_list_uri": "http://groups.google.com/group/cukes",
+  "documentation_uri": "http://cukes.info",
+  "changelog_uri": "https://github.com/cucumber/cucumber-ruby/blob/master/History.md"
+}

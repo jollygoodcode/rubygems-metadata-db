@@ -1,0 +1,13 @@
+{
+  "name": "ref",
+  "full_repo_name": "ruby-concurrency/ref",
+  "gem_uri": "https://rubygems.org/gems/ref-2.0.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/ref",
+  "homepage_uri": "http://github.com/ruby-concurrency/ref",
+  "bug_tracker_uri": "",
+  "source_code_uri": "",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://rubydoc.info/github/bdurand/ref/master/frames",
+  "changelog_uri": "https://github.com/ruby-concurrency/ref/blob/master/HISTORY.md"
+}

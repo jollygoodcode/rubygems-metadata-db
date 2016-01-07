@@ -1,0 +1,13 @@
+{
+  "name": "os",
+  "full_repo_name": "rdp/os",
+  "gem_uri": "https://rubygems.org/gems/os-0.9.6.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/os",
+  "homepage_uri": "http://github.com/rdp/os",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/os/0.9.6",
+  "changelog_uri": "https://github.com/rdp/os/blob/master/ChangeLog"
+}

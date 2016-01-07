@@ -1,0 +1,13 @@
+{
+  "name": "stripe",
+  "full_repo_name": "stripe/stripe-ruby",
+  "gem_uri": "https://rubygems.org/gems/stripe-1.31.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/stripe",
+  "homepage_uri": "https://stripe.com/api",
+  "bug_tracker_uri": "https://github.com/stripe/stripe-ruby/issues",
+  "source_code_uri": "https://github.com/stripe/stripe-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://stripe.com/docs/api/ruby",
+  "changelog_uri": "https://github.com/stripe/stripe-ruby/blob/master/History.txt"
+}

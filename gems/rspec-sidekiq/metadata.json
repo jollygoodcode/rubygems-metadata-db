@@ -1,0 +1,13 @@
+{
+  "name": "rspec-sidekiq",
+  "full_repo_name": "philostler/rspec-sidekiq",
+  "gem_uri": "https://rubygems.org/gems/rspec-sidekiq-2.2.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/rspec-sidekiq",
+  "homepage_uri": "http://github.com/philostler/rspec-sidekiq",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/rspec-sidekiq/2.2.0",
+  "changelog_uri": "https://github.com/philostler/rspec-sidekiq/blob/develop/CHANGES.md"
+}

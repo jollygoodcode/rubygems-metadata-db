@@ -1,0 +1,13 @@
+{
+  "name": "doorkeeper",
+  "full_repo_name": "doorkeeper-gem/doorkeeper",
+  "gem_uri": "https://rubygems.org/gems/doorkeeper-3.1.0.gem",
+  "wiki_uri": "https://github.com/applicake/doorkeeper/wiki/_pages",
+  "project_uri": "https://rubygems.org/gems/doorkeeper",
+  "homepage_uri": "https://github.com/doorkeeper-gem/doorkeeper",
+  "bug_tracker_uri": "https://github.com/applicake/doorkeeper/issues",
+  "source_code_uri": "https://github.com/applicake/doorkeeper",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://github.com/applicake/doorkeeper/wiki/_pages",
+  "changelog_uri": "https://github.com/doorkeeper-gem/doorkeeper/blob/master/NEWS.md"
+}

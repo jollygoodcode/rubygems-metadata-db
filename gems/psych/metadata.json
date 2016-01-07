@@ -1,0 +1,13 @@
+{
+  "name": "psych",
+  "full_repo_name": "tenderlove/psych",
+  "gem_uri": "https://rubygems.org/gems/psych-2.0.15.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/psych",
+  "homepage_uri": "http://github.com/tenderlove/psych",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/psych/2.0.15",
+  "changelog_uri": "https://github.com/tenderlove/psych/blob/master/CHANGELOG.rdoc"
+}

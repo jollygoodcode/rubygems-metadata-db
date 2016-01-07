@@ -1,0 +1,13 @@
+{
+  "name": "lotus-validations",
+  "full_repo_name": "lotus/validations",
+  "gem_uri": "https://rubygems.org/gems/lotus-validations-0.3.3.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/lotus-validations",
+  "homepage_uri": "http://lotusrb.org",
+  "bug_tracker_uri": "https://github.com/lotus/validations/issues",
+  "source_code_uri": "https://github.com/lotus/validations",
+  "mailing_list_uri": "http://lotusrb.org/mailing-list/",
+  "documentation_uri": "http://www.rubydoc.info/gems/lotus-validations/",
+  "changelog_uri": "https://github.com/lotus/validations/blob/master/CHANGELOG.md"
+}

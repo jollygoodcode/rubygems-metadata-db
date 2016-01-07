@@ -1,0 +1,13 @@
+{
+  "name": "fog-xenserver",
+  "full_repo_name": "fog/fog-xenserver",
+  "gem_uri": "https://rubygems.org/gems/fog-xenserver-0.2.2.gem",
+  "wiki_uri": "https://github.com/fog/fog-xenserver/wiki",
+  "project_uri": "https://rubygems.org/gems/fog-xenserver",
+  "homepage_uri": "https://github.com/fog/fog-xenserver",
+  "bug_tracker_uri": "https://github.com/fog/fog-xenserver/issues",
+  "source_code_uri": "https://github.com/fog/fog-xenserver",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/fog-xenserver/0.2.2",
+  "changelog_uri": "NOT FOUND"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "factory_girl_rails",
+  "full_repo_name": "thoughtbot/factory_girl_rails",
+  "gem_uri": "https://rubygems.org/gems/factory_girl_rails-4.5.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/factory_girl_rails",
+  "homepage_uri": "http://github.com/thoughtbot/factory_girl_rails",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/factory_girl_rails/4.5.0",
+  "changelog_uri": "https://github.com/thoughtbot/factory_girl_rails/blob/master/NEWS"
+}

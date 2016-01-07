@@ -1,0 +1,13 @@
+{
+  "name": "carrierwave-aws",
+  "full_repo_name": "sorentwo/carrierwave-aws",
+  "gem_uri": "https://rubygems.org/gems/carrierwave-aws-1.0.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/carrierwave-aws",
+  "homepage_uri": "https://github.com/sorentwo/carrierwave-aws",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/carrierwave-aws/1.0.0",
+  "changelog_uri": "https://github.com/sorentwo/carrierwave-aws/blob/master/CHANGELOG.md"
+}

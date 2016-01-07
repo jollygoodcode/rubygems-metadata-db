@@ -1,0 +1,13 @@
+{
+  "name": "rom-sql",
+  "full_repo_name": "rom-rb/rom-sql",
+  "gem_uri": "https://rubygems.org/gems/rom-sql-0.6.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rom-sql",
+  "homepage_uri": "http://rom-rb.org",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/rom-rb/rom-sql",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/rom-sql/0.6.1",
+  "changelog_uri": "https://github.com/rom-rb/rom-sql/blob/master/CHANGELOG.md"
+}

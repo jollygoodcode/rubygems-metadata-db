@@ -1,0 +1,13 @@
+{
+  "name": "neo4j",
+  "full_repo_name": "neo4jrb/neo4j",
+  "gem_uri": "https://rubygems.org/gems/neo4j-6.0.1.gem",
+  "wiki_uri": "https://github.com/andreasronge/neo4j/wiki",
+  "project_uri": "https://rubygems.org/gems/neo4j",
+  "homepage_uri": "https://github.com/neo4jrb/neo4j/",
+  "bug_tracker_uri": "https://github.com/andreasronge/neo4j/issues",
+  "source_code_uri": "http://github.com/andreasronge/neo4j",
+  "mailing_list_uri": "http://groups.google.com/group/neo4jrb/about",
+  "documentation_uri": "http://neo4j.rubyforge.org/",
+  "changelog_uri": "https://github.com/neo4jrb/neo4j/blob/master/CHANGELOG.md"
+}

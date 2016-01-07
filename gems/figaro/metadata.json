@@ -1,0 +1,13 @@
+{
+  "name": "figaro",
+  "full_repo_name": "laserlemon/figaro",
+  "gem_uri": "https://rubygems.org/gems/figaro-1.1.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/figaro",
+  "homepage_uri": "https://github.com/laserlemon/figaro",
+  "bug_tracker_uri": "https://github.com/laserlemon/figaro/issues",
+  "source_code_uri": "https://github.com/laserlemon/figaro",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/figaro/1.1.1",
+  "changelog_uri": "https://github.com/laserlemon/figaro/blob/master/CHANGELOG.md"
+}

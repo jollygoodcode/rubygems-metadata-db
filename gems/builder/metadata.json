@@ -1,0 +1,13 @@
+{
+  "name": "builder",
+  "full_repo_name": "jimweirich/builder",
+  "gem_uri": "https://rubygems.org/gems/builder-3.2.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/builder",
+  "homepage_uri": "http://onestepback.org",
+  "bug_tracker_uri": "https://github.com/jimweirich/builder/issues",
+  "source_code_uri": "https://github.com/jimweirich/builder",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://github.com/jimweirich/builder",
+  "changelog_uri": "https://github.com/jimweirich/builder/blob/master/CHANGES"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "middleman-livereload",
+  "full_repo_name": "middleman/middleman-livereload",
+  "gem_uri": "https://rubygems.org/gems/middleman-livereload-3.4.6.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/middleman-livereload",
+  "homepage_uri": "https://github.com/middleman/middleman-livereload",
+  "bug_tracker_uri": "https://github.com/middleman/middleman-livereload/issues",
+  "source_code_uri": "https://github.com/middleman/middleman-livereload",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/middleman-livereload/3.4.6",
+  "changelog_uri": "https://github.com/middleman/middleman-livereload/blob/master/CHANGELOG.md"
+}

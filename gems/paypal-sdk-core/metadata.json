@@ -1,0 +1,13 @@
+{
+  "name": "paypal-sdk-core",
+  "full_repo_name": "paypal/sdk-core-ruby",
+  "gem_uri": "https://rubygems.org/gems/paypal-sdk-core-0.3.4.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/paypal-sdk-core",
+  "homepage_uri": "https://developer.paypal.com",
+  "bug_tracker_uri": "https://github.com/paypal/sdk-core-ruby/issues",
+  "source_code_uri": "https://github.com/paypal/sdk-core-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/paypal-sdk-core/0.3.4",
+  "changelog_uri": "https://github.com/paypal/sdk-core-ruby/blob/master/CHANGELOG.txt"
+}

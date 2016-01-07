@@ -1,0 +1,13 @@
+{
+  "name": "rspec-mocks",
+  "full_repo_name": "rspec/rspec-mocks",
+  "gem_uri": "https://rubygems.org/gems/rspec-mocks-3.4.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rspec-mocks",
+  "homepage_uri": "http://github.com/rspec/rspec-mocks",
+  "bug_tracker_uri": "http://github.com/rspec/rspec-mocks/issues",
+  "source_code_uri": "http://github.com/rspec/rspec-mocks",
+  "mailing_list_uri": "http://rubyforge.org/mailman/listinfo/rspec-users",
+  "documentation_uri": "http://rubydoc.info/gems/rspec-mocks/file/README.md",
+  "changelog_uri": "https://github.com/rspec/rspec-mocks/blob/master/Changelog.md"
+}

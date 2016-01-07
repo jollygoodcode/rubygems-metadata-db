@@ -1,0 +1,13 @@
+{
+  "name": "web-console",
+  "full_repo_name": "rails/web-console",
+  "gem_uri": "https://rubygems.org/gems/web-console-3.0.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/web-console",
+  "homepage_uri": "https://github.com/rails/web-console",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/web-console/3.0.0",
+  "changelog_uri": "https://github.com/rails/web-console/blob/master/CHANGELOG.markdown"
+}

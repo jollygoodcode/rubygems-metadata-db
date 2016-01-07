@@ -1,0 +1,13 @@
+{
+  "name": "therubyracer",
+  "full_repo_name": "cowboyd/therubyracer",
+  "gem_uri": "https://rubygems.org/gems/therubyracer-0.12.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/therubyracer",
+  "homepage_uri": "http://github.com/cowboyd/therubyracer",
+  "bug_tracker_uri": "",
+  "source_code_uri": "http://github.com/cowboyd/therubyracer",
+  "mailing_list_uri": "http://groups.google.com/group/therubyracer",
+  "documentation_uri": "http://www.rubydoc.info/gems/therubyracer/0.12.2",
+  "changelog_uri": "https://github.com/cowboyd/therubyracer/blob/master/Changelog.md"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "httparty",
+  "full_repo_name": "jnunemaker/httparty",
+  "gem_uri": "https://rubygems.org/gems/httparty-0.13.7.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/httparty",
+  "homepage_uri": "http://jnunemaker.github.com/httparty",
+  "bug_tracker_uri": "",
+  "source_code_uri": "http://github.com/jnunemaker/httparty",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/httparty/0.13.7",
+  "changelog_uri": "https://github.com/jnunemaker/httparty/blob/master/History"
+}

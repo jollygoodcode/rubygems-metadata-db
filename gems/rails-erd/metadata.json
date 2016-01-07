@@ -1,0 +1,13 @@
+{
+  "name": "rails-erd",
+  "full_repo_name": "voormedia/rails-erd",
+  "gem_uri": "https://rubygems.org/gems/rails-erd-1.4.4.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rails-erd",
+  "homepage_uri": "https://github.com/voormedia/rails-erd",
+  "bug_tracker_uri": "",
+  "source_code_uri": "http://github.com/voormedia/rails-erd",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://rails-erd.rubyforge.org/doc/",
+  "changelog_uri": "https://github.com/voormedia/rails-erd/blob/master/CHANGES.md"
+}

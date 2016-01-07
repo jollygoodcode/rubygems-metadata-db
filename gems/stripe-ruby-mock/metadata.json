@@ -1,0 +1,13 @@
+{
+  "name": "stripe-ruby-mock",
+  "full_repo_name": "rebelidealist/stripe-ruby-mock",
+  "gem_uri": "https://rubygems.org/gems/stripe-ruby-mock-2.2.1.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/stripe-ruby-mock",
+  "homepage_uri": "https://github.com/rebelidealist/stripe-ruby-mock",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/stripe-ruby-mock/2.2.1",
+  "changelog_uri": "https://github.com/rebelidealist/stripe-ruby-mock/blob/master/ChangeLog.rdoc"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "fog",
+  "full_repo_name": "fog/fog",
+  "gem_uri": "https://rubygems.org/gems/fog-1.37.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/fog",
+  "homepage_uri": "http://github.com/fog/fog",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/fog/1.37.0",
+  "changelog_uri": "https://github.com/fog/fog/blob/master/CHANGELOG.md"
+}

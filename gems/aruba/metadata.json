@@ -1,0 +1,13 @@
+{
+  "name": "aruba",
+  "full_repo_name": "cucumber/aruba",
+  "gem_uri": "https://rubygems.org/gems/aruba-0.9.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/aruba",
+  "homepage_uri": "http://github.com/cucumber/aruba",
+  "bug_tracker_uri": "http://github.com/cucumber/aruba/issues",
+  "source_code_uri": "http://github.com/cucumber/aruba.git",
+  "mailing_list_uri": "http://groups.google.com/group/cukes",
+  "documentation_uri": "http://github.com/cucumber/aruba/blob/master/README.rdoc",
+  "changelog_uri": "https://github.com/cucumber/aruba/blob/master/History.md"
+}

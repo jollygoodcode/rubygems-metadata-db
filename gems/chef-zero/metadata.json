@@ -1,0 +1,13 @@
+{
+  "name": "chef-zero",
+  "full_repo_name": "jkeiser/chef-zero",
+  "gem_uri": "https://rubygems.org/gems/chef-zero-4.4.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/chef-zero",
+  "homepage_uri": "http://www.opscode.com",
+  "bug_tracker_uri": "https://github.com/jkeiser/chef-zero/issues",
+  "source_code_uri": "https://github.com/jkeiser/chef-zero",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://github.com/jkeiser/chef-zero/blob/master/README.rdoc",
+  "changelog_uri": null
+}

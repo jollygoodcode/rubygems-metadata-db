@@ -1,0 +1,13 @@
+{
+  "name": "skylight",
+  "full_repo_name": "skylightio/skylight-ruby",
+  "gem_uri": "https://rubygems.org/gems/skylight-0.10.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/skylight",
+  "homepage_uri": "http://www.skylight.io",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/skylightio/skylight-ruby",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://docs.skylight.io/",
+  "changelog_uri": "https://github.com/skylightio/skylight-ruby/blob/master/CHANGELOG.md"
+}

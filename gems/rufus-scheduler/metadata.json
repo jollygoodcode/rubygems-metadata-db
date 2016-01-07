@@ -1,0 +1,13 @@
+{
+  "name": "rufus-scheduler",
+  "full_repo_name": "jmettraux/rufus-scheduler",
+  "gem_uri": "https://rubygems.org/gems/rufus-scheduler-3.2.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rufus-scheduler",
+  "homepage_uri": "http://github.com/jmettraux/rufus-scheduler",
+  "bug_tracker_uri": "http://github.com/jmettraux/rufus-scheduler/issues",
+  "source_code_uri": "http://github.com/jmettraux/rufus-scheduler",
+  "mailing_list_uri": "http://groups.google.com/group/rufus-ruby",
+  "documentation_uri": "http://rufus.rubyforge.org/rufus-scheduler/README_rdoc.html",
+  "changelog_uri": "https://github.com/jmettraux/rufus-scheduler/blob/master/CHANGELOG.txt"
+}

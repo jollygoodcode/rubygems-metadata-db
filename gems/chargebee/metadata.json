@@ -1,0 +1,13 @@
+{
+  "name": "chargebee",
+  "full_repo_name": "chargebee/chargebee-ruby",
+  "gem_uri": "https://rubygems.org/gems/chargebee-1.6.7.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/chargebee",
+  "homepage_uri": "https://apidocs.chargebee.com/api/docs?lang=ruby",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/chargebee/1.6.7",
+  "changelog_uri": "https://github.com/chargebee/chargebee-ruby/blob/master/CHANGELOG.md"
+}

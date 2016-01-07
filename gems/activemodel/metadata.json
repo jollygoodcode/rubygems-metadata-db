@@ -1,0 +1,13 @@
+{
+  "name": "activemodel",
+  "full_repo_name": null,
+  "gem_uri": "https://rubygems.org/gems/activemodel-4.2.5.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/activemodel",
+  "homepage_uri": "http://www.rubyonrails.org",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/activemodel/4.2.5",
+  "changelog_uri": "https://github.com/rails/rails/blob/master/activemodel/CHANGELOG.md"
+}

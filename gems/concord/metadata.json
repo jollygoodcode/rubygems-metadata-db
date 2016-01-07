@@ -1,0 +1,13 @@
+{
+  "name": "concord",
+  "full_repo_name": "mbj/concord",
+  "gem_uri": "https://rubygems.org/gems/concord-0.1.5.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/concord",
+  "homepage_uri": "https://github.com/mbj/concord",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/concord/0.1.5",
+  "changelog_uri": "https://github.com/mbj/concord/blob/master/Changelog.md"
+}

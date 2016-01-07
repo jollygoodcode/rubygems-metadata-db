@@ -1,0 +1,13 @@
+{
+  "name": "rack-timeout",
+  "full_repo_name": "heroku/rack-timeout",
+  "gem_uri": "https://rubygems.org/gems/rack-timeout-0.3.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/rack-timeout",
+  "homepage_uri": "http://github.com/heroku/rack-timeout",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/rack-timeout/0.3.2",
+  "changelog_uri": "https://github.com/heroku/rack-timeout/blob/master/CHANGELOG"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rails_best_practices",
+  "full_repo_name": "railsbp/rails_best_practices",
+  "gem_uri": "https://rubygems.org/gems/rails_best_practices-1.15.7.gem",
+  "wiki_uri": "http://github.com/railsbp/rails_best_practices/wiki",
+  "project_uri": "https://rubygems.org/gems/rails_best_practices",
+  "homepage_uri": "http://rails-bestpractices.com",
+  "bug_tracker_uri": "http://github.com/railsbp/rails_best_practices/issues",
+  "source_code_uri": "http://github.com/railsbp/rails_best_practices",
+  "mailing_list_uri": "https://groups.google.com/group/rails_best_practices",
+  "documentation_uri": "http://rdoc.rails-bestpractices.com",
+  "changelog_uri": "https://github.com/railsbp/rails_best_practices/blob/master/CHANGELOG.md"
+}

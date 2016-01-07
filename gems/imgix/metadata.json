@@ -1,0 +1,13 @@
+{
+  "name": "imgix",
+  "full_repo_name": "imgix/imgix-rb",
+  "gem_uri": "https://rubygems.org/gems/imgix-1.0.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/imgix",
+  "homepage_uri": "https://github.com/imgix/imgix-rb",
+  "bug_tracker_uri": "",
+  "source_code_uri": "https://github.com/soffes/imgix-rb",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/imgix/1.0.0",
+  "changelog_uri": "https://github.com/imgix/imgix-rb/blob/master/CHANGELOG.md"
+}

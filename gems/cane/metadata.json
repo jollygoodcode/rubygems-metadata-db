@@ -1,0 +1,13 @@
+{
+  "name": "cane",
+  "full_repo_name": "square/cane",
+  "gem_uri": "https://rubygems.org/gems/cane-2.6.2.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/cane",
+  "homepage_uri": "http://github.com/square/cane",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/cane/2.6.2",
+  "changelog_uri": "https://github.com/square/cane/blob/master/HISTORY.md"
+}

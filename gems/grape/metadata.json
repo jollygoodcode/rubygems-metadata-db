@@ -1,0 +1,13 @@
+{
+  "name": "grape",
+  "full_repo_name": "ruby-grape/grape",
+  "gem_uri": "https://rubygems.org/gems/grape-0.14.0.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/grape",
+  "homepage_uri": "https://github.com/ruby-grape/grape",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/grape/0.14.0",
+  "changelog_uri": "https://github.com/ruby-grape/grape/blob/master/CHANGELOG.md"
+}

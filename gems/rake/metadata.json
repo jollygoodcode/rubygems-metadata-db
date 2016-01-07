@@ -1,0 +1,13 @@
+{
+  "name": "rake",
+  "full_repo_name": "ruby/rake",
+  "gem_uri": "https://rubygems.org/gems/rake-10.4.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rake",
+  "homepage_uri": "https://github.com/ruby/rake",
+  "bug_tracker_uri": "https://github.com/ruby/rake/issues",
+  "source_code_uri": "https://github.com/ruby/rake",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://docs.seattlerb.org/rake",
+  "changelog_uri": "https://github.com/ruby/rake/blob/master/History.rdoc"
+}

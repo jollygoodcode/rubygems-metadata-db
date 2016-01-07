@@ -1,0 +1,13 @@
+{
+  "name": "pry-stack_explorer",
+  "full_repo_name": "pry/pry-stack_explorer",
+  "gem_uri": "https://rubygems.org/gems/pry-stack_explorer-0.4.9.2.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/pry-stack_explorer",
+  "homepage_uri": "https://github.com/pry/pry-stack_explorer",
+  "bug_tracker_uri": "https://github.com/banister/pry-stack_explorer/issues",
+  "source_code_uri": "https://github.com/banister/pry-stack_explorer",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/pry-stack_explorer/0.4.9.2",
+  "changelog_uri": "https://github.com/pry/pry-stack_explorer/blob/master/CHANGELOG"
+}

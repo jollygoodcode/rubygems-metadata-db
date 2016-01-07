@@ -1,0 +1,13 @@
+{
+  "name": "capistrano-sidekiq",
+  "full_repo_name": "seuros/capistrano-sidekiq",
+  "gem_uri": "https://rubygems.org/gems/capistrano-sidekiq-0.5.4.gem",
+  "wiki_uri": null,
+  "project_uri": "https://rubygems.org/gems/capistrano-sidekiq",
+  "homepage_uri": "https://github.com/seuros/capistrano-sidekiq",
+  "bug_tracker_uri": null,
+  "source_code_uri": null,
+  "mailing_list_uri": null,
+  "documentation_uri": "http://www.rubydoc.info/gems/capistrano-sidekiq/0.5.4",
+  "changelog_uri": "NOT FOUND"
+}

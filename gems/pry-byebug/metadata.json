@@ -1,0 +1,13 @@
+{
+  "name": "pry-byebug",
+  "full_repo_name": "deivid-rodriguez/pry-byebug",
+  "gem_uri": "https://rubygems.org/gems/pry-byebug-3.3.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/pry-byebug",
+  "homepage_uri": "https://github.com/deivid-rodriguez/pry-byebug",
+  "bug_tracker_uri": "https://github.com/deivid-rodriguez/pry-byebug/issues",
+  "source_code_uri": "https://github.com/deivid-rodriguez/pry-byebug",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://www.rubydoc.info/gems/pry-byebug/3.3.0",
+  "changelog_uri": "https://github.com/deivid-rodriguez/pry-byebug/blob/master/CHANGELOG.md"
+}

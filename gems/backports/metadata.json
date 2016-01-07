@@ -1,0 +1,13 @@
+{
+  "name": "backports",
+  "full_repo_name": "marcandre/backports",
+  "gem_uri": "https://rubygems.org/gems/backports-3.6.7.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/backports",
+  "homepage_uri": "http://github.com/marcandre/backports",
+  "bug_tracker_uri": "http://github.com/marcandre/backports/issues",
+  "source_code_uri": "http://github.com/marcandre/backports",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://github.com/marcandre/backports/blob/master/README.rdoc",
+  "changelog_uri": "https://github.com/marcandre/backports/blob/master/CHANGELOG.rdoc"
+}

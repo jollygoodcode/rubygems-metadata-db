@@ -1,0 +1,13 @@
+{
+  "name": "rack-contrib",
+  "full_repo_name": "rack/rack-contrib",
+  "gem_uri": "https://rubygems.org/gems/rack-contrib-1.4.0.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rack-contrib",
+  "homepage_uri": "http://github.com/rack/rack-contrib/",
+  "bug_tracker_uri": "http://github.com/rack/rack-contrib/issues",
+  "source_code_uri": "http://github.com/rack/rack-contrib",
+  "mailing_list_uri": "http://groups.google.com/group/rack-devel",
+  "documentation_uri": "http://www.rubydoc.info/gems/rack-contrib/1.4.0",
+  "changelog_uri": "https://github.com/rack/rack-contrib/blob/master/CHANGELOG.md"
+}

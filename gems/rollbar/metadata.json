@@ -1,0 +1,13 @@
+{
+  "name": "rollbar",
+  "full_repo_name": "rollbar/rollbar-gem",
+  "gem_uri": "https://rubygems.org/gems/rollbar-2.7.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/rollbar",
+  "homepage_uri": "https://rollbar.com",
+  "bug_tracker_uri": "https://github.com/rollbar/rollbar-gem/issues",
+  "source_code_uri": "https://github.com/rollbar/rollbar-gem",
+  "mailing_list_uri": "",
+  "documentation_uri": "https://rollbar.com/docs/notifier/rollbar-gem/",
+  "changelog_uri": "https://github.com/rollbar/rollbar-gem/blob/master/CHANGELOG.md"
+}

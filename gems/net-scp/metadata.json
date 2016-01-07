@@ -1,0 +1,13 @@
+{
+  "name": "net-scp",
+  "full_repo_name": "net-ssh/net-scp",
+  "gem_uri": "https://rubygems.org/gems/net-scp-1.2.1.gem",
+  "wiki_uri": "",
+  "project_uri": "https://rubygems.org/gems/net-scp",
+  "homepage_uri": "https://github.com/net-ssh/net-scp",
+  "bug_tracker_uri": "https://github.com/net-ssh/net-scp/issues",
+  "source_code_uri": "https://github.com/net-ssh/net-scp",
+  "mailing_list_uri": "",
+  "documentation_uri": "http://net-ssh.github.com/net-scp",
+  "changelog_uri": "https://github.com/net-ssh/net-scp/blob/master/CHANGES.txt"
+}
